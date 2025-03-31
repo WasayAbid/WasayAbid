@@ -50,7 +50,6 @@ I'm a **third-year AI undergraduate** at the **University of Central Punjab**, p
 
 🌐 **Portfolio**: [abdulwasayabid.vercel.app](https://abdulwasayabid.vercel.app/)  
 💼 **LinkedIn**: [Muhammad Abdul Wasay Abid](https://www.linkedin.com/in/muhammad-abdul-wasay-abid-472355270/)  
-🐦 **Twitter**: [YourHandle]  
 📧 **Email**: [abdulwasayabid.801@gmail.com](mailto:abdulwasayabid.801@gmail.com)  
 
 ---
